@@ -1,0 +1,22 @@
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# SQLite databases
+db.sqlite3
+huey.db
+
+# Static files
+staticfiles/
+
+# IDE
+.vscode/
+.idea/
